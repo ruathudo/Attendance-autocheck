@@ -22,3 +22,6 @@
 | Actors | Students |
 | Description | Students login to system to check attending time |
 | Preconditions | <ul><li>	Students have logged in  </li><li> System shows the students view after logging in </li></ul> |
+| Post conditions |	Students check successfully attending time |
+| Normal flow | <h5>1. View attending time </h5> <ul><li>a) Students login </li><li>b)	System automatically navigates to the local class where students are currently participating </li><li>c)	Students check courses name, classes, and attending time. </li><li>d) Students log out. </li></ul> |
+| Alternative flows | 2. Battery runs out <ul><li> a)	After logging in to system, users’ devices power runs out  </li><li> b) System notifies the situation and sends notifications of the cases to teachers e)	Students log out and have enough proof for their present. </li></ul> |
