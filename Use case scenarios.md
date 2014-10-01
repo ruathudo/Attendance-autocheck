@@ -1,13 +1,13 @@
 ### Use case scenarios
 
-| User groups | Brief definition |
+| Use case ID | 1 |
 | --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
+| Use case name | Download an attendance figure  |
+| Created by | Tran Dinh Linh |
+| Date created | 29th Sep 14 |
+| Actors | Lecturers |
+| Description | Teachers login to system to download an attendance file |
+| Preconditions | <ul><li> Teachers have logged in  </li><li> Teachers see the starting page and choose the targeted courses </li></ul> |
+| Post conditions |	Teachers have downloaded successfully the file |
 | --- | --- |
 | --- | --- |
