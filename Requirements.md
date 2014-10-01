@@ -7,4 +7,3 @@
 - User.logout : Logout from application and delete all session.
 
 - Student.
-afsdfd
