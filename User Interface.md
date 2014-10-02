@@ -41,5 +41,10 @@ Components
 
 •	 Minimum attending time: The least amount of time that students need to be in the classes. For teachers, editing option is available but not for student users. 
 
-[SHOWING PICTURES OF MOCK UP HERE]
+###### Lecturers view
+<img src="http://users.metropolia.fi/~dinhtr/SE/Photo%2002-10-14%2018%2028%2011.jpg" />
+
+###### Students view
+<img src="http://users.metropolia.fi/~dinhtr/SE/Photo%2002-10-14%2018%2028%2039.jpg" /> 
+
 
