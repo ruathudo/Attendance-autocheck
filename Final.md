@@ -6,6 +6,7 @@ Team name: QL
 Team member: Tran Dinh Linh & Duong Quoc Quan 
 
 Date: 2.10.2014
+---------------------
 
 ### B/ Introduction
 ---------------------
@@ -58,6 +59,7 @@ Date: 2.10.2014
 | Alternative flows | 2. Battery runs out <ul><li> a)	After logging in to system, users’ devices power runs out  </li><li> b) System notifies the situation and sends notifications of the cases to teachers e)	Students log out and have enough proof for their present. </li></ul> |
 | Exceptions | 1.1 Lose Internet connection <ul><li>Alert message pops up to indicate the problem of Internet connection</li></ul> 1.2	Exceed to maximum idle time <ul><li>System sends message of a ‘request time of’ to users.</li><li>	System requires users to login again to continue </li><li> Teachers login again to continue the process </li></ul>  1.3	Password incorrect <ul><li> Students send a form to system for password resetting </li></ul> 1.4 Exceed to maximum idle time <ul><li>	System sends message of a ‘request time of’ to users </li><li>	System requires users to login again to continue the process </li></ul>|
 | Assumption | <ul><li>	Students possess registered accounts </li><li>	Students have already enrolled for the courses</li></ul> |
+--------------------------
 
 ### D/ System architecture 
 --------------------------
@@ -108,11 +110,12 @@ Components
 
 •	 Minimum attending time: The least amount of time that students need to be in the classes. For teachers, editing option is available but not for student users. 
 
-####### Lecturers view
+#######  Lecturers view
 <img src="http://users.metropolia.fi/~dinhtr/SE/Photo%2002-10-14%2018%2028%2011.jpg" />
 
-####### Students view
+#######  Students view
 <img src="http://users.metropolia.fi/~dinhtr/SE/Photo%2002-10-14%2018%2028%2039.jpg" /> 
+--------------------------
 
 ### G/ Project management and self reflection
 <p> The time for doing this project was quite tight in our group's perspective. However, we tried our best to accomplish to project. 
