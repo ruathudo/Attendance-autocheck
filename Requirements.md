@@ -19,6 +19,7 @@
 - Teacher.viewMessage() : teacher can view student message and exception
 - Teacher.checkAttendance() : teacher can manually check attendance for student by tick next to student's name
 
+
 - Admin.addUser() : admin can add user to the system and set role for user
 - Admin.editUser() : admin can also edit user info
 - Admin.delUser() : admin can delete user
