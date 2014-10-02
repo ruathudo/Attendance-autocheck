@@ -29,7 +29,7 @@ Date: 2.10.2014
 | Lecturers | <ul><li> Login </li><li> Logout </li><li>	Choose courses </li><li> View courses info </li><li> View number of attending students and their status </li><li>	Add features to a particular course </li><li><h5> Save or download an attendance figure from system </h5></li></ul> | 
 | User/ Student | <ul><li> Login  </li><li> Logout </li><li> View courses info </li><li><h5> View attending time </h5></li><li> View following classes </li></ul> | 
 
-##### 3. Use case scenarios
+#### 3. Use case scenarios
 
 | Use case ID | 1 |
 | --- | --- |
@@ -110,10 +110,10 @@ Components
 
 •	 Minimum attending time: The least amount of time that students need to be in the classes. For teachers, editing option is available but not for student users. 
 
-#######  Lecturers view
+<h6> Lecturers view </h6>
 <img src="http://users.metropolia.fi/~dinhtr/SE/Photo%2002-10-14%2018%2028%2011.jpg" />
 
-#######  Students view
+<h6> Students view </h6>
 <img src="http://users.metropolia.fi/~dinhtr/SE/Photo%2002-10-14%2018%2028%2039.jpg" /> 
 --------------------------
 
