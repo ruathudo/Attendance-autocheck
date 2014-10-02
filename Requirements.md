@@ -30,6 +30,12 @@
 - Course.delStudent(): remove student from the course
 - Course.save(): save all information for the course
 
+- Class.getInfo() : get class infomation
+- Class.getDate() : get date of the class
+- Class.getTime() : get time start class
+- Class.getDuration() : get the duration of class
+- Class.edit(): edit time, duration,  date, room... of class
+
   Client Function:
 - validateInput(): validate all input for security reason
 - countTime(): time counter function to calculate percent of work done during class
