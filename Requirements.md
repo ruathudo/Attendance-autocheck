@@ -41,6 +41,7 @@
 - validateInput(): validate all input for security reason
 - countTime(): time counter function to calculate percent of work done during class
 - sendSessionInfo() : send the session information to server for processing.
+- trackPos(): track user position using indoor navigation API, return the position in longtitude-latitude
 
   Server Function:
 - validateInput(): validate input second time to ensure security
@@ -48,6 +49,6 @@
 - dataProcess() : Analyze data before saving
 - saveData(): save data session into database
 - dbQuery() : is a class with many child functions, use for query tasks from database.
-
+- getloc(): get the location based the position of user send to server, return location eg: B213
 
 
