@@ -5,3 +5,6 @@
 
 4.2 Main modules and their functions represented
   
+  - User class is an parent class, which has the login logout and checkRole function. Check role function specifies the user role for creating children class as Student, Teacher or Admin. It has userId, userName, password and userRole parameters.
+  - Student class is a child of User. Parameter is studentId, studentName, group. It's function is described above.
+  - 
