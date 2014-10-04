@@ -31,7 +31,7 @@
 - Course.delStudent(): remove student from the course
 - Course.save(): save all information for the course
 
-- Class.getInfo() : get class infomation
+- Class.getRoom() : get class room
 - Class.getDate() : get date of the class
 - Class.getTime() : get time start class
 - Class.getDuration() : get the duration of class
