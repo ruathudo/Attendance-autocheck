@@ -6,6 +6,8 @@
   At the end of class, teacher can view the summary of class and course.
 
 4.2 Main modules and their functions represented
+
+
   <img src="http://users.metropolia.fi/~quocdu/software/project_uml.jpg" alt="uml" >
 
 
