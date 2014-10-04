@@ -1,4 +1,4 @@
-5. Requirements
+5 Requirements
 
 5.1 Functional requirements:
 
