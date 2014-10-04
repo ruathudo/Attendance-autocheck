@@ -90,12 +90,12 @@ Date: 2.10.2014
 •	Minimum attending time
 
 
-<h7>Views</h7>
+<h6>Views</h6>
 •	Startup page: Select languages, campus location, input ID and password to log in. 
 
 •	Users page: Views from different users differentiate from each other. (More details are shown in mock-up paper)
 
-<h7>Components</h7>
+<h6>Components</h6>
 •	Logo: Click to navigate to front-page. 
 
 •	Login/out:
