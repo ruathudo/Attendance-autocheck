@@ -56,19 +56,29 @@
 
 5.2 Non-functional system requirements:
 
-
-
-5.3 Usability:
+  - Usability:
     To ensure. As description, It only needs a device with wifi connection. Nowadays, everybody, especially IT student must have at least 1 wireless device, so it may not be a problem. About functionality, It must be automatic and visual. Students just need to login and press 1 button: start check. If is there any exception, student can press exception mode button and leave an message. 
 
-    For teacher's part, he can get a list courses belong to him, select one course and start working with. By default, the course will come with accepted students. However, teacher can also add new student to the course just by add button. delete or edit is the same. Setting a class is also simple like filling a form. Any one can do it with a normal knowledge about computer.
+  For teacher's part, he can get a list courses belong to him, select one course and start working with. By default, the course will come with accepted students. However, teacher can also add new student to the course just by add button. delete or edit is the same. Setting a class is also simple like filling a form. Any one can do it with a normal knowledge about computer.
     
-5.4 Reliability: 
+  - Reliability: 
     To ensure system is realiable, we have make serveral exceptions for that. For example, input valid in both client and server ensure nobody can put a bad stuff on. All private data is protected by hash. if any one have a dropped signal or battery running out or any accident with his phone, application will collect device's status and let student send it to the teacher with message. Of course, it rarely happends because nobody want to cheat with a low battery phone in every week. 
     If some students don't have any smart phone, tablet... they can ask teacher check mannualy by his phone. So nobody will miss the class.
 
-5.5 Efficiency: 
+  - Efficiency: 
     This application will save many time for both students and teachers. Students don't need to wait in queue for signing in the paper. No paper equal with no tear, no lost. All information will be stored in server. Teachers don't have to calculate how many percent students presented, application will do it. The data is going to be stored for long time. People can retrieve them like a big data to do some statistical research.
     
-    
+  - Other non-functional requirements:
+    - Maintainance: The system must be easy to edit and maintain for any IT technical.
+    - Flexibility: This application must be compatible with many platform as ios, android, windows phone...etc
+    - Size: This app must have a small size and use little device resource.
+    - Extensibility: The system can be extenable for the future.
+    - Capacity
+    - Security
+    - Scalability
+    - Performance
+    - Accuracy
+    - Usability
+    - Reliability
+    - Efficiency
 
