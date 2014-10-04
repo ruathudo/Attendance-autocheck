@@ -13,6 +13,7 @@ Date: 2.10.2014
 Everyday, our teacher come to class, have a feeling depressed when so many students have a truant. To ensure enough knowledge, student must attend enough. He tried to check attendance by paper, but some smart guys come sign the name in paper then leave, someone ask their friend check for them. Teacher asked us make an application to solve this problem. So, we have an idea for that. Auto check attendance is the solution. 
 This is an application which students installed in smartphone, using indoor positioning technology in order to check where student is and how long he attended. A short description, students will bring their phone with app installed to the class. Application will auto check attendance for theme and send the information to the teacher. Teacher will have a summary about the class as well as the whole course. It is so useful to prevent the lazy student and decrease work for teacher. 
 This application will be compatible with so many platform such as ios, android, windows phone, mac, window...., must be secure, and friendly for everyone.
+
 ---------------------
 
 ### C/ Use cases 
@@ -70,6 +71,7 @@ This application will be compatible with so many platform such as ios, android, 
 #### 1. High-level overview of the system
 
 
+  
   Student have to login to be able to using application. Wifi signal will be used to track position. System will navigate position of student then send the position to the server. Server will process data and sendback the location of student. When student ensures location and class is correct, he presses start check attendance button. When start check attendance, a request will send to server with necessary information. Server starts counting the time of student in class and also sending student's info to teacher. In a special case, student can leave a message or execute exception mode for battery running out, dropping signal...application will collect device's info and take a screen shot then send to the teacher. Teacher can also check student's attendance manualy by tick on student name. .
   This application alows teacher setup a course, add or delete student to the course, view message... Teacher can set minimum attending time for student by percent of whole duration. for example 50%, 80%... etc.
   At the end of class, teacher can view the summary of class and course.
@@ -89,6 +91,7 @@ This application will be compatible with so many platform such as ios, android, 
   - Class class refers to the teaching day of the course. Parameter: classId, classInfo. classInfo is an array which contains infomation like time, date, room...etc. Method: getRoom(), getDate(), getTime(), getDuration(), edit().
   - Client has some static function: validateInput(), countTime(), sendSessionInfo(), trackPos().
   - Server has some static function: validateInput(), validateUser(), dataProcess(), saveData() , dbQuery(), getLoc().
+
 
 --------------------------
 
