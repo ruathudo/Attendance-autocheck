@@ -19,4 +19,4 @@
   - Course class has parameter courseId, courseInfo, courseName, classes. Parameter classes is an array which contains object. One course has many classes. Class as element. Method: addStudent(), delStudent(), save().
   - Class class refers to the teaching day of the course. Parameter: classId, classInfo. classInfo is an array which contains infomation like time, date, room...etc. Method: getRoom(), getDate(), getTime(), getDuration(), edit().
   - Client has some static function: validateInput(), countTime(), sendSessionInfo(), trackPos().
-  - Server has some static function: validateInput(), validateUser(), saveSessionInfo(), dbQuery(), getLoc().
+  - Server has some static function: validateInput(), validateUser(), dataProcess(), saveData() , dbQuery(), getLoc().
