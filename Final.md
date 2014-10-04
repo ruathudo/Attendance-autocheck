@@ -19,7 +19,7 @@ Date: 2.10.2014
 | --- | --- | --- |
 | Administrator | Owner of the software | The admin is responsible for functioning of the software but has no right to access users' data. |
 | User/ Lecturers | Registered user | Lecturer users are registered by school according to courses that they have. This kind of users is able to access information related to courses as well as assigning some particular factors in the system. |
-| User/ Student | Registered user | Student user type can login to system to do attendance check but has no right to modify any setting of the system. |
+| User/ Students | Registered user | Student user type can login to system to do attendance check but has no right to modify any setting of the system. |
 
 #### 2. Use cases of primary actors for Autocheck Attendance. 
 
