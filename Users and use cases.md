@@ -11,5 +11,5 @@
 | Primary Actors | Use cases | 
 | ------------- |-------------|
 | Administrator | <ul><li> Accept users’ registration  </li><li> Modify rights of users </li><li> Make changes in system settings </li><li> Overall attendance info </li></ul> |  
-| Lecturers | <ul><li> Login </li><li> Logout </li><li>	Choose courses </li><li> View courses info </li><li> View number of attending students and their status </li><li>	Add features to a particular course </li><li><h5> Save or download an attendance figure from system </h5></li></ul> | 
+| Lecturers | <ul><li> Login </li><li> Logout </li><li>	Choose courses </li><li> View courses info </li><li> View number of attending students and their status </li><li> Add course, modify course or delete course </li><li> Setup for one or multi classes's features </li><li>	Add features to a particular course </li> <li><h5> Save or download an attendance figure from system </h5></li></ul> | 
 | User/ Student | <ul><li> Login  </li><li> Logout </li><li> View courses info </li><li><h5> View attending time </h5></li><li> View following classes </li></ul> | 
